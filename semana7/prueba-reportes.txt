@@ -1,0 +1,2 @@
+[{"id":1,"tipo":"Infraestructura","descripcion":"Daño en alumbrado público"}]
+Cuando consulto reportes aparece la información que agregue con el post

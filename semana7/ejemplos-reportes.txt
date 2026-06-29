@@ -1,0 +1,9 @@
+Ejemplos de reportes:
+{
+  "tipo": "Seguridad",
+  "descripcion": "Presencia de personas sospechosas en el parque en horas nocturnas"
+}
+{
+  "tipo": "Movilidad",
+  "descripcion": "Semáforo dañado causando congestión vehicular en la vía principal"
+}
